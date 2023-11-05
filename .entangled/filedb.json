@@ -1,0 +1,142 @@
+{
+  "version": "2.0.0",
+  "files": [
+    {
+      "path": "src/hello.cc",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:41:28.418012",
+      "hexdigest": "8f6bb6e208eec277704c22c9699c98ea7d96f4563614dfe83358bfb9b33799dc",
+      "size": 191
+    },
+    {
+      "path": "src/hello.js",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:34:33.099224",
+      "hexdigest": "a575b2430a1b8cf98b38c9fb9095209feca533a3b2d41de3d1f99d32e37ed06e",
+      "size": 88
+    },
+    {
+      "path": "src/hello.hs",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:34:33.094224",
+      "hexdigest": "5cb0a92b717c552ce06d7332848304fea7614f33f47910d97559b6062b522d25",
+      "size": 108
+    },
+    {
+      "path": "src/hello.rs",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:34:33.095224",
+      "hexdigest": "a3c36697a093a5c73c9e6f026b3d5c604751e069773c9fb0f73219cf58bfbf16",
+      "size": 103
+    },
+    {
+      "path": "src/hello.lua",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:34:33.101224",
+      "hexdigest": "9090d4801826d705fdff6769c7519b5e983df784ea8ab198135dee777b43609b",
+      "size": 82
+    },
+    {
+      "path": "src/hello.jl",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:34:33.093224",
+      "hexdigest": "a9ebc61bb656b5f17c51272d0c7caa4d60d08b0bacdd52872c43e6b10fd769f1",
+      "size": 81
+    },
+    {
+      "path": "src/hello.go",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:34:33.085224",
+      "hexdigest": "7da00a9676423878add3f45d46943a4b64111370564a96ac6645387e971a0df6",
+      "size": 134
+    },
+    {
+      "path": "src/hello.r",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:34:33.098224",
+      "hexdigest": "bb540ddd8b3a6b10e884c60937eb3cd3031e1cbb1837234d1a586c7f60c520f9",
+      "size": 86
+    },
+    {
+      "path": "src/hello.sh",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:34:33.103224",
+      "hexdigest": "935b1301dec36fd8195807c40fb058e99f5d4f4ecff3381999c1c84b407b6162",
+      "size": 78
+    },
+    {
+      "path": "src/hello.scm",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:34:33.097224",
+      "hexdigest": "d174fcb8d5a2eba2c857e24a9055b288a8d3f2fc229b06c5122e91e7429fc00e",
+      "size": 117
+    },
+    {
+      "path": "src/hello.py",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T20:34:33.104224",
+      "hexdigest": "acb1975f3d41ac944fa10b9a069b0430b96fa1259b770a3db7f36305a1a56924",
+      "size": 82
+    },
+    {
+      "path": "docs/index.md",
+      "deps": null,
+      "modified": "2023-11-05T22:04:17.549285",
+      "hexdigest": "7ca5278bfc6baa6fdf97f2f1067f3d02abb47040144c1f2c71b9c2247b92458b",
+      "size": 2580
+    },
+    {
+      "path": "docs/contents.md",
+      "deps": null,
+      "modified": "2023-11-05T20:01:51.266464",
+      "hexdigest": "d684d1c3acdfe893279ea78c56c684d0ccc56346f23f43106cec587fee2065ca",
+      "size": 22
+    },
+    {
+      "path": "src/hello.ml",
+      "deps": [
+        "docs/index.md"
+      ],
+      "modified": "2023-11-05T21:39:21.196165",
+      "hexdigest": "f622d1b5d1706e308fa6f8086d1c51b603a9098a2fa3743aa027b0dcd0662c73",
+      "size": 112
+    }
+  ],
+  "source": [],
+  "target": [
+    "src/hello.r",
+    "src/hello.js",
+    "src/hello.rs",
+    "src/hello.sh",
+    "src/hello.cc",
+    "src/hello.py",
+    "src/hello.lua",
+    "src/hello.ml",
+    "src/hello.jl",
+    "src/hello.scm",
+    "src/hello.hs",
+    "src/hello.go"
+  ]
+}

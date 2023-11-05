@@ -1,0 +1,15 @@
+version = "2.0"
+watch_list = ["docs/*.md"]
+
+[brei]
+include = ["docs/weave.toml"]
+
+[[brei.task]]
+name = "weave"
+requires = ["#html", "#static"]
+
+[[brei.call]]
+template = "pandoc"
+collect = "html"
+[brei.call.args]
+basename = ["index"]
